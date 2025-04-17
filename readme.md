@@ -1,7 +1,7 @@
 # :house_with_garden: 내돈내산 - 인프라 기반 동네 추천 웹 사이트
 ![icon](./exec/icon.png)
 
-## :cinema: 소개 영상 보기: [UCC](https://youtu.be/05AagAa41Fk)
+## :cinema: 소개 영상 보기: [UCC](https://youtu.be/05AagAa41Fk?si=zWzIEXg95XbWiF5w)
 ## 소개 PPT: [내돈내산 PPT](https://lab.ssafy.com/s10-bigdata-recom-sub2/S10P22E204/-/blob/master/exec/10%EA%B8%B0_%ED%8A%B9%ED%99%94PJT_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_E204.pdf?ref_type=heads)
 
 ## :date: 프로젝트 진행 기간
